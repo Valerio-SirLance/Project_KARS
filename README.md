@@ -15,7 +15,7 @@
 
   ## Running the Executable 🖥
   
-  Download the [**Project K.A.R.S.exe**](https://github.com/Valerio-SirLance/project_KARS/blob/main/Project%20K.A.R.S.exe) file.
+  Download the [**Project K.A.R.S.exe**](https://github.com/Valerio-SirLance/Project_KARS/blob/main/Project%20K.A.R.S.exe) file.
   
   Run the executable on your local machine.
 
